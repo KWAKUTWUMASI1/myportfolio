@@ -1,6 +1,5 @@
-## 🔗 Navigation
-
-[ABOUT](#about) • [SKILLS](#skills) • [PROJECTS](#projects) • [CERTIFICATES](#certificates) • [EXPERIENCE](#experience) • [CONTACT](#contact)
+[Home](#Home) • [SKILLS](#Skills) • [PROJECTS](#projects) • [CERTIFICATES](#Certificates) • [EXPERIENCE](#experience) • [CONTACT](#contact)
+# Home
 # **EMMNANUEL TWUMASI AMPOFO**
 
 Data Analyst  ·  UK, Wells.
@@ -11,6 +10,7 @@ I work across the full analytics lifecycle—cleaning and transforming data usin
 
 In Excel, I create efficient and well-structured reports using Pivot Tables, VLOOKUP, XLOOKUP, and other advanced functions to support data-driven decision-making.
 
+# Skills
 ## 🚀 DATA & QUERYING
 ![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql)
@@ -34,13 +34,16 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 ![Dashboard](https://img.shields.io/badge/Dashboard%20Design-0A192F?style=for-the-badge)
 ![Storytelling](https://img.shields.io/badge/Data%20Storytelling-0A192F?style=for-the-badge)
 
-# PORTFOLIO
-## 🎓 CREDENTIALS
 
-### Certificates
+### 🎓 CREDENTIALS
+# Certificates
 
 | Provider | Certificate | Link |
 |---------|------------|------|
 | **Ghana Communication Technology University** | BSc. Information Technology | [View Certificate](https://drive.google.com/file/d/1hx9rO2DKpVmx09F0KxaEuLsDQcVr-Ad8/view?usp=drive_link) |
 | **Microsoft Certified** | Azure Data Fundamentals | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/EMMANUELTWUMASIAMPOFO-1902/F03AD693162D4092?sharingId=67188209795A0A11) |
 | **CompTIA** | Excel Fundamentals | [View Certificate](http://verify.CompTIA.org) |
+
+# CONTACT ME
+Email: ampofotwumasiemmanuel@gmail.com
+Linkedin: https://www.linkedin.com/in/emmanuel-twumasi-ampofo/
