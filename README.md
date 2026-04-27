@@ -2,7 +2,7 @@
   <a href="#skills">Skills</a> •
   <a href="#projects">Projects</a> •
   <a href="#certificates">Certificates</a> •
-  <a href="#experience">Experince</a> •
+  <a href="#Experirnce">Experince</a> •
   <a href="#contact">Contact</a>
 </p>
 
@@ -43,7 +43,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 # PROJECTS
 
 
-### 🎓 CREDENTIALS
+🎓 CREDENTIALS
 # Certificates
 
 | Provider | Certificate | Link |
@@ -51,6 +51,11 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 | **Ghana Communication Technology University** | BSc. Information Technology | [View Certificate](https://drive.google.com/file/d/1hx9rO2DKpVmx09F0KxaEuLsDQcVr-Ad8/view?usp=drive_link) |
 | **Microsoft Certified** | Azure Data Fundamentals | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/EMMANUELTWUMASIAMPOFO-1902/F03AD693162D4092?sharingId=67188209795A0A11) |
 | **CompTIA** | Excel Fundamentals | [View Certificate](http://verify.CompTIA.org) |
+
+# EXPERIENCE 💼
+- Computer Technician – Ghana Armed Forces  
+- IT Specialist – United Nations Mission (UNMISS)  
+- Experience in data handling, reporting, and technical support  
 
 <h2 align="center">CONTACT ME</h2>
 
