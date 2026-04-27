@@ -1,3 +1,6 @@
+## 🔗 Navigation
+
+[ABOUT](#about) • [SKILLS](#skills) • [PROJECTS](#projects) • [CERTIFICATES](#certificates) • [EXPERIENCE](#experience) • [CONTACT](#contact)
 # **EMMNANUEL TWUMASI AMPOFO**
 
 Data Analyst  ·  UK, Wells.
