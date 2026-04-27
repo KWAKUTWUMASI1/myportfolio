@@ -1,6 +1,7 @@
 # **EMMNANUEL TWUMASI AMPOFO**
 
 Data Analyst  ·  UK, Wells.
+
 I am a data analyst with expertise in Python, SQL, Power BI, and Excel, supported by a strong background in Information Technology. I specialize in transforming raw, unstructured data into clear, actionable insights that enable businesses to make faster and more informed decisions.
 
 I work across the full analytics lifecycle—cleaning and transforming data using Python and Pandas, querying and managing databases with MySQL, and developing interactive dashboards in Power BI. My Power BI work includes DAX, Power Query, star schema modeling, and What-If analysis to deliver meaningful and dynamic reports.
