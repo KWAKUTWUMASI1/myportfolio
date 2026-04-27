@@ -1,13 +1,10 @@
 <p align="right">
-  <a href="#about">Home</a> •
   <a href="#skills">Skills</a> •
   <a href="#projects">Projects</a> •
   <a href="#certificates">Certificates</a> •
   <a href="#experience">Experince</a> •
   <a href="#contact">Contact</a>
 </p>
-
-# Home
 
 <h2 align="center">EMMANUEL TWUMASI AMPOFO</h2>
 
