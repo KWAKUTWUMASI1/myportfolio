@@ -41,11 +41,38 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 ![Storytelling](https://img.shields.io/badge/Data%20Storytelling-0A192F?style=for-the-badge)
 
 # PROJECTS
-<h1 Animal Shelter Operations </h1>
-<img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png" width="600">
-<img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Los.png" width="600">
-<img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Intake.png" width="600">
-<img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/animal profile.png" width="600">
+<div style="width:300px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
+
+  <!-- Image section (cropped preview) -->
+  <div style="height:100px; overflow:hidden;">
+    <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png"
+         style="width:100%; object-fit:cover;">
+  </div>
+
+  <!-- Content section -->
+  <div style="padding:12px;">
+
+   <p style="color:gray; font-size:12px; margin:0;">
+      Featured · Excel + Power BI
+    </p>
+
+  <h3 style="margin:8px 0 5px 0;">
+      Animal Shelter Operational Dashboard
+    </h3>
+
+  <p style="font-size:13px; color:#444;">
+      End-to-end pipeline on the Lagos property market. Scraped raw listings, cleaned thousands of rows with Pandas, structured data in MySQL, and built an executive Power BI dashboard surfacing pricing trends and neighborhood value across the city.
+    </p>
+    <p style="font-size:12px; color:#666;">
+      · Power BI · DAX · Excel
+    </p>
+
+  <a href="https://github.com/KWAKUTWUMASI1/Myportforlio" style="color:blue; font-size:13px;">
+      View on GitHub →
+    </a>
+
+  </div>
+</div>
 
 
 # Certificates
