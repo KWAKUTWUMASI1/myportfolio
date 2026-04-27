@@ -61,7 +61,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
     </h3>
 
   <p style="font-size:13px; color:#444;">
-      End-to-end pipeline on the Lagos property market. Scraped raw listings, cleaned thousands of rows with Pandas, structured data in MySQL, and built an executive Power BI dashboard surfacing pricing trends and neighborhood value across the city.
+      In this challenge, you will analyze the Animal Shelter Intakes and Outcomes dataset from the City of Long Beach Animal Care Services. The dataset includes detailed information about each animal entering or leaving the shelter, such as species, intake type, condition, outcome type, and length of stay.
     </p>
     <p style="font-size:12px; color:#666;">
       · Power BI · DAX · Excel
