@@ -41,7 +41,11 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 ![Storytelling](https://img.shields.io/badge/Data%20Storytelling-0A192F?style=for-the-badge)
 
 # PROJECTS
-
+<h1 Animal Shelter Operations </h1>
+<a href="https://github.com/KWAKUTWUMASI1/Social-Media">Animal Shelter</a> 
+<p align="center">
+  <img src="Summary.png" width="600"/>
+</p>
 
 🎓 CREDENTIALS
 # Certificates
