@@ -3,7 +3,7 @@
   <a href="#projects">Projects</a> •
   <a href="#certificates">Certificates</a> •
   <a href="#experience">Experience</a> •
-  <a href="#contact Me">Contact Me</a>
+  <a href="#contact-me">Contact Me</a>
 </p>
 
 <h1 class="drop">EMMANUEL TWUMASI AMPOFO</h1>
@@ -131,7 +131,9 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 - IT Specialist – United Nations Mission (UNMISS)  
 - Experience in data handling, reporting, and technical support  
 
-<h2 align="center">CONTACT ME</h2>
+<div align="center">
+# CONTACT ME
+</div>
 
 <p align="center">
   <a href="mailto:ampofotwumasiemmanuel@gmail.com">📧 Email</a> |
