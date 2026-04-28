@@ -123,7 +123,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 <div style="display:flex; flex-direction:column; gap:15px;">
 
   <!-- Certificate 1 -->
-  <div style="border:1px solid #ddd; border-radius:10px; padding:15px;">
+  <div style="border:1px solid #ddd; border-radius:7px; padding:3px;">
     <h3 style="margin:0;">BSc. Information Technology</h3>
     <p style="margin:5px 0; color:gray;">Ghana Communication Technology University</p>
     <a href="https://drive.google.com/file/d/1hx9rO2DKpVmx09F0KxaEuLsDQcVr-Ad8/view?usp=drive_link">
