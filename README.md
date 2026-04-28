@@ -44,7 +44,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 <div style="display:flex; align-items:stretch; gap:20px;">
 
   <!-- First Card -->
-  <div style="width:500px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
+  <div style="width:600px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
 
   <div style="height:100px; overflow:hidden;">
       <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/rev.png"
@@ -72,7 +72,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
   <div style="width:2px; background-color:#ddd;"></div>
 
   <!-- Second Card -->
-  <div style="width:500px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
+  <div style="width:600px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
 
    <div style="height:100px; overflow:hidden;">
       <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png"
