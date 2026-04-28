@@ -131,11 +131,8 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 - IT Specialist – United Nations Mission (UNMISS)  
 - Experience in data handling, reporting, and technical support  
 
-<div align="center">
-  
-# Contact me
 
-</div>
+# Contact me
 
 <p align="center">
   <a href="mailto:ampofotwumasiemmanuel@gmail.com">📧 Email</a> |
