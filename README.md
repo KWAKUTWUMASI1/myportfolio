@@ -120,30 +120,36 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 
 # Certificates
 
-<div style="display:flex; flex-direction:column; gap:15px;">
+<div style="display:flex; gap:15px; flex-wrap:wrap;">
 
   <!-- Certificate 1 -->
-  <div style="border:1px solid #ddd; border-radius:7px; padding:3px;">
-    <h3 style="margin:0;">BSc. Information Technology</h3>
-    <p style="margin:5px 0; color:gray;">Ghana Communication Technology University</p>
+  <div style="width:250px; border:1px solid #ddd; border-radius:10px; padding:15px;">
+    <h4 style="margin:0;">BSc. Information Technology</h4>
+    <p style="margin:5px 0; color:gray; font-size:13px;">
+      Ghana Communication Technology University
+    </p>
     <a href="https://drive.google.com/file/d/1hx9rO2DKpVmx09F0KxaEuLsDQcVr-Ad8/view?usp=drive_link">
       View Certificate →
     </a>
   </div>
 
   <!-- Certificate 2 -->
-  <div style="border:1px solid #ddd; border-radius:10px; padding:15px;">
-    <h3 style="margin:0;">Azure Data Fundamentals</h3>
-    <p style="margin:5px 0; color:gray;">Microsoft Certified</p>
+  <div style="width:250px; border:1px solid #ddd; border-radius:10px; padding:15px;">
+    <h4 style="margin:0;">Azure Data Fundamentals</h4>
+    <p style="margin:5px 0; color:gray; font-size:13px;">
+      Microsoft Certified
+    </p>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/EMMANUELTWUMASIAMPOFO-1902/F03AD693162D4092?sharingId=67188209795A0A11">
       View Certificate →
     </a>
   </div>
 
   <!-- Certificate 3 -->
-  <div style="border:1px solid #ddd; border-radius:10px; padding:15px;">
-    <h3 style="margin:0;">Excel Fundamentals</h3>
-    <p style="margin:5px 0; color:gray;">CompTIA</p>
+  <div style="width:250px; border:1px solid #ddd; border-radius:10px; padding:15px;">
+    <h4 style="margin:0;">Excel Fundamentals</h4>
+    <p style="margin:5px 0; color:gray; font-size:13px;">
+      CompTIA
+    </p>
     <a href="http://verify.CompTIA.org">
       Verify Certificate →
     </a>
