@@ -122,41 +122,79 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 
 <div style="display:flex; gap:15px; flex-wrap:wrap;">
 
-  <!-- Certificate 1 -->
-  <div style="width:250px; border:1px solid #ddd; border-radius:10px; padding:15px;">
-    <h4 style="margin:0;">BSc. Information Technology</h4>
-    <p style="margin:5px 0; color:gray; font-size:13px;">
-      Ghana Communication Technology University
-    </p>
-    <a href="https://drive.google.com/file/d/1hx9rO2DKpVmx09F0KxaEuLsDQcVr-Ad8/view?usp=drive_link">
-      View Certificate →
-    </a>
-  </div>
+  <!-- Card 1 -->
+  <a href="https://drive.google.com/file/d/1hx9rO2DKpVmx09F0KxaEuLsDQcVr-Ad8/view?usp=drive_link" 
+     style="text-decoration:none; color:inherit;">
+    
+    <div style="
+      width:250px;
+      border:1px solid #ddd;
+      border-radius:10px;
+      padding:15px;
+      transition:0.3s;
+    "
+    onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.15)';"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
 
-  <!-- Certificate 2 -->
-  <div style="width:250px; border:1px solid #ddd; border-radius:10px; padding:15px;">
-    <h4 style="margin:0;">Azure Data Fundamentals</h4>
-    <p style="margin:5px 0; color:gray; font-size:13px;">
-      Microsoft Certified
-    </p>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/EMMANUELTWUMASIAMPOFO-1902/F03AD693162D4092?sharingId=67188209795A0A11">
-      View Certificate →
-    </a>
-  </div>
+      <h4 style="margin:0;">🎓 BSc. Information Technology</h4>
+      <p style="margin:5px 0; color:gray; font-size:13px;">
+        Ghana Communication Technology University
+      </p>
 
-  <!-- Certificate 3 -->
-  <div style="width:250px; border:1px solid #ddd; border-radius:10px; padding:15px;">
-    <h4 style="margin:0;">Excel Fundamentals</h4>
-    <p style="margin:5px 0; color:gray; font-size:13px;">
-      CompTIA
-    </p>
-    <a href="http://verify.CompTIA.org">
-      Verify Certificate →
-    </a>
+      <p style="color:blue; font-size:13px;">View Certificate →</p>
+
+    </div>
+  </a>
+
+  <!-- Card 2 -->
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/EMMANUELTWUMASIAMPOFO-1902/F03AD693162D4092?sharingId=67188209795A0A11"
+     style="text-decoration:none; color:inherit;">
+    
+  <div style="
+      width:250px;
+      border:1px solid #ddd;
+      border-radius:10px;
+      padding:15px;
+      transition:0.3s;
+    "
+    onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.15)';"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+
+  <h4 style="margin:0;">📊 Azure Data Fundamentals</h4>
+      <p style="margin:5px 0; color:gray; font-size:13px;">
+        Microsoft Certified
+      </p>
+
+  <p style="color:blue; font-size:13px;">View Certificate →</p>
+
+   </div>
+  </a>
+
+  <!-- Card 3 -->
+  <a href="http://verify.CompTIA.org"
+     style="text-decoration:none; color:inherit;">
+    
+  <div style="
+      width:250px;
+      border:1px solid #ddd;
+      border-radius:10px;
+      padding:15px;
+      transition:0.3s;
+    "
+    onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.15)';"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+
+  <h4 style="margin:0;">📜 Excel Fundamentals</h4>
+      <p style="margin:5px 0; color:gray; font-size:13px;">
+        CompTIA
+      </p>
+
+  <p style="color:blue; font-size:13px;">Verify Certificate →</p>
+
   </div>
+  </a>
 
 </div>
-
 # Experience
 - Computer Technician – Ghana Armed Forces  
 - IT Specialist – United Nations Mission (UNMISS)  
